@@ -1,5 +1,4 @@
 # payment_receipts
-Certainly! Below is a README template tailored to the provided Python code:
 
 ```markdown
 # Receipt Generator
